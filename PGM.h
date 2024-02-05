@@ -3,8 +3,8 @@
 #ifndef PGM_H__
 #define PGM_H__
 
-#include<iostream>
-#include<fstream>
+#include <iostream>
+#include <fstream>
 #include <stdio.h>
 #include <string.h>
 
