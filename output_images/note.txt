@@ -1,0 +1,6 @@
+The following resulting files must be present here to pass the autograding process:
+  negation.pgm
+  flip.pgm
+  stretching.pgm
+  median.pgm
+  gaussian.pgm
